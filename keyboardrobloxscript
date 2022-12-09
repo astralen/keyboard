@@ -1,4 +1,4 @@
-
+wait(1)
 local zkeyboarda = Instance.new("ScreenGui")
 local z = Instance.new("TextBox")
 local UICorner = Instance.new("UICorner")
